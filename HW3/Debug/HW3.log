@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Project\HW3\Dependencies\GLFW\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(44,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(61,37): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  HW3.vcxproj -> C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Project\HW3\Debug\HW3.exe
