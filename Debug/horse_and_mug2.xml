@@ -15955,7 +15955,7 @@
         <Mesh id="1">
             <MeshType>Solid</MeshType>
             <Material>1</Material>
-            <Transformations>t1</Transformations>
+            <Transformations>t6</Transformations>
             <Faces>
                 2 1 4
                 1 3 4
