@@ -1,10 +1,12 @@
 ﻿  main.cpp
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
 C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Project\HW3\Dependencies\GLFW\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
-C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(44,1): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(131,9): warning C4101: 'vertexNumbers': unreferenced local variable
-C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(132,19): warning C4101: 'vN': unreferenced local variable
-C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(351,37): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
-C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(519,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(544,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(48,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(135,9): warning C4101: 'vertexNumbers': unreferenced local variable
+C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(136,19): warning C4101: 'vN': unreferenced local variable
+C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(356,92): warning C4244: 'argument': conversion from 'int' to 'GLclampf', possible loss of data
+C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(356,66): warning C4244: 'argument': conversion from 'int' to 'GLclampf', possible loss of data
+C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(356,40): warning C4244: 'argument': conversion from 'int' to 'GLclampf', possible loss of data
+C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(541,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(578,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   HW3.vcxproj -> C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Project\HW3\Debug\HW3.exe
