@@ -1,11 +1,2 @@
-﻿  main.cpp
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
-C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Project\HW3\Dependencies\GLFW\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
-C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(212,92): warning C4244: 'argument': conversion from 'int' to 'GLclampf', possible loss of data
-C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(212,66): warning C4244: 'argument': conversion from 'int' to 'GLclampf', possible loss of data
-C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(212,40): warning C4244: 'argument': conversion from 'int' to 'GLclampf', possible loss of data
-C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(332,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Files\Assignment3\Source\main.cpp(369,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  parser.cpp
-  Generating Code...
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   HW3.vcxproj -> C:\Users\mfurk\Dropbox\Fall'20\CENG477\HW3\Project\HW3\Debug\HW3.exe
